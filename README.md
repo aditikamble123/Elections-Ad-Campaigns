@@ -54,6 +54,13 @@ pip install pandas matplotlib seaborn numpy notebook
 * Example: Transportation and logistics were the largest non-media expenses.
 
 ---
+## Plots:
+![newplot (1)](https://github.com/user-attachments/assets/009fc64e-95f5-4f71-a9d9-d0e110ad33d7)
+![newplot (5)](https://github.com/user-attachments/assets/3a9c3cce-86b0-416d-9de4-94413a82482b)
+![newplot (4)](https://github.com/user-attachments/assets/7f2bf804-d5f6-4cd5-878e-516452decc39)
+![newplot (3)](https://github.com/user-attachments/assets/e6ed61bd-92da-4744-ad4a-6edbbdc3e152)
+![newplot (2)](https://github.com/user-attachments/assets/68911e8d-925e-4299-88ca-d33a4ecadf75)
+![newplot](https://github.com/user-attachments/assets/7a3a60d0-03d3-4282-90b7-a3fcef91be11)
 
 ## 📌 Future Work
 
